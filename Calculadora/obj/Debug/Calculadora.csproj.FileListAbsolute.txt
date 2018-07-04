@@ -1,0 +1,10 @@
+C:\Users\bruni\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\bruni\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\bruni\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\bruni\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\bruni\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\bruni\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\bruni\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\bruni\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\bruni\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
